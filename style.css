@@ -4,3 +4,11 @@
   height: 87vh;
   overflow: hidden;
 }
+
+
+.latest img {
+  object-fit: cover;
+  object-position: center;
+  height: 35vh;
+  overflow: hidden;
+}
